@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCgSOnG9B5rwyZLDFc55bLHRg8oPdmVCqQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>187273846030</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>First.FitnessTracking</string>
+	<key>PROJECT_ID</key>
+	<string>fitnestrack-bf032</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitnestrack-bf032.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:187273846030:ios:d22e2bc4d4dca9492e8b5f</string>
+</dict>
+</plist>

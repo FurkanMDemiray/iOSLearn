@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "718C27E6-BD4C-4508-A00F-9A1382D761C3",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:LoginProtocolOriented.xcodeproj",
+      "identifier" : "DD40AF462B6D6FFF00146DA3",
+      "name" : "LoginProtocolOriented"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LoginProtocolOriented.xcodeproj",
+        "identifier" : "DD40AF5C2B6D700100146DA3",
+        "name" : "LoginProtocolOrientedTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:LoginProtocolOriented.xcodeproj",
+        "identifier" : "DD40AF662B6D700100146DA3",
+        "name" : "LoginProtocolOrientedUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
